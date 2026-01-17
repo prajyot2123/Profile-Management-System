@@ -125,6 +125,4 @@ profile-management-system
 
 ---
 
-## 🙌 Acknowledgments  
 
-Special thanks to all contributors and developers who have worked on technologies like React, Material UI, Node.js, and MongoDB, making projects like this possible.  
